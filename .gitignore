@@ -1,7 +1,9 @@
+.pem
 .jshintrc
 .project
 .idea
 .vscode
+resources/
 public/media/
 public/docs/
 public/bower_components/
