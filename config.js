@@ -12,7 +12,7 @@
 module.exports = {
     "siteName": "PB Demo",
     "siteRoot": "ec2-52-56-128-71.eu-west-2.compute.amazonaws.com",
-    
+    "sitePort": 8080,
     "logging": {
         "level": "info"
     },
