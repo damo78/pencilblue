@@ -1,0 +1,16 @@
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2017-01-26T14:15:13.458Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2017-01-26T14:15:14.412Z"}
+{"level":"info","message":"ServerInitializer: HTTP server starting, binding on IP 0.0.0.0 and port: 8080","timestamp":"2017-01-26T14:15:14.893Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2017-01-26T14:16:47.044Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2017-01-26T14:16:47.717Z"}
+{"level":"info","message":"ServerInitializer: HTTP server starting, binding on IP 0.0.0.0 and port: 8090","timestamp":"2017-01-26T14:16:47.901Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2017-01-26T14:16:47.904Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2017-01-26T14:16:55.359Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2017-01-26T14:16:55.379Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2017-01-26T14:17:25.300Z"}
+{"level":"warn","message":"MediaService is deprecated. Please use MediaServiceV2","timestamp":"2017-01-26T14:20:01.298Z"}
+{"level":"warn","message":"MediaService is deprecated. Please use MediaServiceV2","timestamp":"2017-01-26T14:21:48.097Z"}
+{"level":"warn","message":"MediaService is deprecated. Please use MediaServiceV2","timestamp":"2017-01-26T14:39:32.699Z"}
+{"level":"warn","message":"MediaService is deprecated. Please use MediaServiceV2","timestamp":"2017-01-26T14:41:14.565Z"}
+{"level":"warn","message":"MediaService is deprecated. Please use MediaServiceV2","timestamp":"2017-01-26T14:41:32.926Z"}
+{"level":"warn","message":"MediaService is deprecated. Please use MediaServiceV2","timestamp":"2017-01-26T14:46:44.929Z"}
